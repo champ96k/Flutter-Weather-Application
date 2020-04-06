@@ -5,7 +5,7 @@ A new Flutter project.
 ### Screenshot
 
 
-![](blob:https://imgur.com/cfaa94c3-91c8-4bf9-8af5-5e838f112b72)
+![](https://i.imgur.com/3t96Oqc.jpg)
       -  
 
 For help getting started with Flutter, view our
